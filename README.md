@@ -1,5 +1,5 @@
 # the-space-we-live-in
-[project] team "manifold mixer" developing a depth color sensor project
+[project] team "manifold mixer" developing a depth color sensor project to explain space concepts
 
 ## TEAM MEMBERS
 
@@ -9,7 +9,7 @@
 
 ## PROBLEM 
 
-Spacetime is complex, we lack projects that explain in in visual or creative ways.
+Spacetime is complex, we want to explain this aspect of String theory a creative way where people understand that it's all around them.
 
 ## PURPOSE
 
