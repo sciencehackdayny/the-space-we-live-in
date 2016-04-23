@@ -9,14 +9,14 @@
 
 ## PROBLEM 
 
-Spacetime is complex, we want to explain this aspect of String theory a creative way where people understand that it's all around them.
+Spacetime is complex. We want to explain this aspect of String Theory in a creative way where people understand how it's all around them.
 
 ## PURPOSE
 
-This project uses art to explain the nature of spacetime.
+Using Kinnect Depth sensors and Footage from partile trails, we want to represent the multi dimensional nature of Spacetime. We want the viewer to see how they can visualize themselves in a space with hidden dimensions all around them.
 
 ## EXTERNAL LINKS
 
-* LINK 
-* LINK
-* LINK
+* Traditional representation 3D Stereogram of a Calabi Yau Manifold https://www.youtube.com/watch?v=_fzxshvzK6s
+* Another visualization of Calabi Yau Manifolds https://www.youtube.com/watch?v=h9MS9i-CdfY
+
