@@ -13,7 +13,7 @@ Spacetime is complex. We want to explain this aspect of String Theory in a creat
 
 ## PURPOSE
 
-Using Kinnect Depth sensors and Footage from partile trails, we want to represent the multi dimensional nature of Spacetime. We want the viewer to see how they can visualize themselves in a space with hidden dimensions all around them.
+Using Kinnect Depth sensors and footage from particle tracking chambers, we want to represent an artistic representation of the multi dimensional nature of Spacetime. We want the viewer to see how they can visualize themselves in a space with hidden dimensions all around them.
 
 ## EXTERNAL LINKS
 
